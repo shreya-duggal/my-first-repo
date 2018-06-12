@@ -18,7 +18,7 @@ if($day != "friday")
 
 
  
-$servername = "localhost";
+$servername = "localhost1";
 $username = "root"; 
 $password = "a4968;sort=";
  
